@@ -1,0 +1,50 @@
+.txtBlue {
+    color: #2980B9;
+}
+
+.txtblueLight {
+    color: #3498DB;
+}
+h6 {
+    color: #2C3E50;
+}
+
+p {
+    color: #2C3E50;
+}
+
+.txtred {
+    color: #E74C3C;
+}
+
+.bgsite {
+    background-color: #ECF0F1;
+}
+
+.cornavbar {
+    background-color: #3498DB;
+}
+
+.Copyright {
+    font-size: 0.8rem;
+}
+.botaoRedes {
+    background-color: white;
+    margin: 0 5px;
+
+}
+.bi-facebook {
+    color: #2C3E50;
+}
+.bi-twitter {
+    color: #3498DB;
+}
+.ilustracoes {
+    color: #E74C3C;
+}
+.marginIlustracoes {
+    margin: 0 10px;
+}
+.mussum {
+    background-color: #3498DB;
+}
